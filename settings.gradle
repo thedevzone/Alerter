@@ -1,0 +1,3 @@
+include ':Alerter'
+include ':app'
+rootProject.name = "Alerter"
